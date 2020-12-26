@@ -1,6 +1,8 @@
 # SOVA-NP
  NEWS PARSER Organiser
 
+![](https://github.com/uav-profile/SOVA-NP/blob/main/src/scheme_s.png)
+
 <b>Загрузка
  
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen1.png)
