@@ -6,6 +6,7 @@
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen1.png)
 
 и отображение новостей</b>
+
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen2.PNG)
 
 
@@ -15,4 +16,5 @@
 
 <p align="center">Парсеры добавлены только по РФ.<br>Во вкладке "Помощь" указано, как можно добавить свои парсеры.
 
-![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen4.PNG) </p>
+<p align="center">
+ ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen4.PNG)
