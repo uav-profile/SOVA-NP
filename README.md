@@ -14,7 +14,8 @@
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen3.PNG)
 
-<p align="center">Парсеры добавлены только по РФ.<br>Во вкладке "Помощь" указано, как можно добавить свои парсеры.
+Парсеры добавлены только по РФ.<br>Во вкладке "Помощь" указано, как можно добавить свои парсеры.
 
 <p align="center">
- ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen4.PNG)
+
+![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen4.PNG)
