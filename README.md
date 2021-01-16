@@ -24,5 +24,7 @@
 
 <hr>
 
-# FULL-PACK:
-### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.1.0/SOVA.News.Setup.exe"> Скачать </a>
+# Версия с готовыми парсерами
+### 24 категории, около 200 парсеров
+
+<a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.1.0/SOVA.News.Setup.exe"> Скачать </a>
