@@ -22,7 +22,7 @@
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen4.PNG)
 
-<hr color="green">
+<hr width="300">
 
 # FULL-PACK:
 ### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.1.0/SOVA.News.Setup.exe"> Скачать </a>
