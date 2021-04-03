@@ -2,8 +2,12 @@
 ![license](https://img.shields.io/github/license/uav-profile/SOVA-NP.svg)
 ![loads](https://img.shields.io/github/downloads/uav-profile/SOVA-NP/total.svg)
 ![watchers](https://img.shields.io/github/watchers/uav-profile/SOVA-NP.svg)
-![](https://badge-size.herokuapp.com/uav-profile/SOVA-NP)
-![](https://img.shields.io/github/realese/uav-profile/SOVA-NP.svg)
+![size](https://badge-size.herokuapp.com/uav-profile/SOVA-NP)
+![release](https://img.shields.io/github/realese/uav-profile/SOVA-NP.svg)
+
+![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![py](http://ForTheBadge.com/images/badges/made-with-python.svg)
+
 #### Имеется возможность добавлять свои парсеры. Возможен поиск по БД, исключено повторное добавление в БД (используется хэширование). 
 
 ## Demo-версия:
@@ -31,10 +35,3 @@
 <p align="center">
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen4.PNG)
-
-<hr>
-
-# Версия с готовыми парсерами
-### 24 категории, около 200 парсеров
-
-### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/1.2.0/SOVA.News.Setup.exe"> Скачать </a>
