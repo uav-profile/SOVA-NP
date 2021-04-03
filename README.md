@@ -6,11 +6,11 @@
 #### Имеется возможность добавлять свои парсеры. Возможен поиск по БД, исключено повторное добавление в БД (используется хэширование). 
 
 ## Демо-версия:
-### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.0.0/SOVA.News.Setup.exe"> Скачать </a>
+### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.0.0/SOVA.News.Setup.exe"> Скачать (1.0.0) </a>
 
 ## Версия с готовыми парсерами:
 ### 24 категории, около 200 парсеров
-### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/1.2.0/SOVA.News.Setup.exe"> Скачать </a>
+### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/1.2.0/SOVA.News.Setup.exe"> Скачать (1.2.0) </a>
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/scheme_s.png)
 
