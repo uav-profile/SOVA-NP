@@ -1,12 +1,7 @@
 # SOVA News Parser
 ![license](https://img.shields.io/github/license/uav-profile/SOVA-NP.svg)
 ![loads](https://img.shields.io/github/downloads/uav-profile/SOVA-NP/total.svg)
-![watchers](https://img.shields.io/github/watchers/uav-profile/SOVA-NP.svg)
-![size](https://badge-size.herokuapp.com/uav-profile/SOVA-NP)
-![release](https://img.shields.io/github/realese/uav-profile/SOVA-NP.svg)
-
-![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![py](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![release](https://badgen.net/github/release/uav-profile/SOVA-NP)
 
 #### Имеется возможность добавлять свои парсеры. Возможен поиск по БД, исключено повторное добавление в БД (используется хэширование). 
 
