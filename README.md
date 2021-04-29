@@ -3,7 +3,13 @@
 [![license](https://img.shields.io/github/license/uav-profile/SOVA-NP.svg)](https://github.com/uav-profile/SOVA-NP/releases/download/1.2.1/SOVA.News.Setup.exe)
 [![release](https://badgen.net/github/release/uav-profile/SOVA-NP)](https://github.com/uav-profile/SOVA-NP/releases/download/1.2.1/SOVA.News.Setup.exe)
 
-#### Имеется возможность добавлять свои парсеры. Возможен поиск по БД, исключено повторное добавление в БД (используется хэширование). 
+### Функционал:
++ Парсинг новостей из html, получение rss
++ Запись и поиск в БД по датам, ключевым словам (SQLite3)
++ Исключение повторной записи в БД (хэширование)
++ Использование прокси
++ Offline-визуализация текста (популярные слова, облако слов, анализ тональности)
++ Offline-распознавание языка текста
 
 ## Демо-версия:
 ### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.0.0/SOVA.News.Setup.exe"> Скачать (1.0.0) </a>
