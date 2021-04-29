@@ -32,6 +32,6 @@
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/3.png)
 
-### и распознавание текста.
+### и распознавание языка текста.
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/4.png)
