@@ -1,8 +1,8 @@
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/scheme.png)
 
 ## SOVA News Parser
-[![loads](https://img.shields.io/github/downloads/uav-profile/SOVA-NP/total.svg)](https://github.com/uav-profile/SOVA-NP/releases/download/1.2.1/SOVA.News.Setup.exe)
-[![license](https://img.shields.io/github/license/uav-profile/SOVA-NP.svg)](https://github.com/uav-profile/SOVA-NP/releases/download/1.2.1/SOVA.News.Setup.exe)
+[![loads](https://img.shields.io/github/downloads/uav-profile/SOVA-NP/total.svg)](https://github.com/uav-profile/SOVA-NP/releases/download/2.0.1/SOVA.News.Setup.exe)
+[![license](https://img.shields.io/github/license/uav-profile/SOVA-NP.svg)](https://github.com/uav-profile/SOVA-NP/releases/download/2.0.1/SOVA.News.Setup.exe)
 [![release](https://badgen.net/github/release/uav-profile/SOVA-NP)](https://github.com/uav-profile/SOVA-NP/releases/download/1.2.1/SOVA.News.Setup.exe)
 
 ### Функционал:
@@ -18,15 +18,20 @@
 
 ## Версия с готовыми парсерами:
 24 категории, около 200 парсеров
-#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/1.2.1/SOVA.News.Setup.exe"> Скачать (1.2.1) </a>
+#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/2.0.1/SOVA.News.Setup.exe"> Скачать (2.0.1) </a>
 
-### Загрузка
+### Получение и отображение новостей, запись в БД, 
  
-![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen1.png)
+![](https://github.com/uav-profile/SOVA-NP/blob/main/src/1.png)
 
-### и отображение новостей
+### поиск по дате и ключевым словам,
 
-![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen2.PNG)
+![](https://github.com/uav-profile/SOVA-NP/blob/main/src/2.png)
 
+### визуализация,
 
-![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen3.PNG)
+![](https://github.com/uav-profile/SOVA-NP/blob/main/src/3.png)
+
+### и распознавание текста.
+
+![](https://github.com/uav-profile/SOVA-NP/blob/main/src/4.png)
