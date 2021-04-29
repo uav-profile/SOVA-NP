@@ -20,6 +20,8 @@
 
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/scheme.png)
 
+
+
 <b>Загрузка
  
 ![](https://github.com/uav-profile/SOVA-NP/blob/main/src/screen1.png)
