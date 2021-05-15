@@ -18,7 +18,7 @@
 
 ## Версия с готовыми парсерами (пароль):
 24 категории, около 200 парсеров
-#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/2.0.2/SOVA.News.Setup.exe"> Скачать (2.0.2) </a>
+#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/2.0.3/SOVA.News.Setup.exe"> Скачать (2.0.3) </a>
 
 ### Получение и отображение новостей, запись в БД, 
  
