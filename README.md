@@ -13,6 +13,9 @@
 + Offline-распознавание языка текста
 + NO-CODE добавление источников
 
+## Видеоинструкции и описание (пароль):
+#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v2.2.1-videos/videoinstructions.rar"> Скачать </a>
+
 ## Демо-версия:
 #### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.0.0/SOVA.News.Setup.exe"> Скачать (1.0.0) </a>
 
