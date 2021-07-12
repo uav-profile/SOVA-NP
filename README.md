@@ -3,7 +3,7 @@
 ## SOVA News Parser
 [![loads](https://img.shields.io/github/downloads/uav-profile/SOVA-NP/total.svg)](https://github.com/uav-profile/SOVA-NP/releases)
 [![license](https://img.shields.io/github/license/uav-profile/SOVA-NP.svg)](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_MIT)
-[![release](https://badgen.net/github/release/uav-profile/SOVA-NP)](https://github.com/uav-profile/SOVA-NP/releases/download/2.0.2/SOVA.News.Setup.exe)
+[![release](https://badgen.net/github/release/uav-profile/SOVA-NP)](https://github.com/uav-profile/SOVA-NP/releases/download/2.3.1/SOVA.News.Setup.exe)
 
 ### Функционал:
 + Парсинг новостей из html, получение rss
@@ -18,7 +18,7 @@
 
 ## Версия с готовыми парсерами (пароль):
 24 категории, около 200 парсеров
-#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/2.2.1/SOVA.News.Setup.2.2.1.exe"> Скачать (2.2.1) </a>
+#### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/2.3.1/SOVA.News.Setup.exe"> Скачать (2.3.1) </a>
 
 ## Демо-версия:
 #### <a href="https://github.com/uav-profile/SOVA-NP/releases/download/v1.0.0/SOVA.News.Setup.exe"> Скачать (1.0.0) </a>
